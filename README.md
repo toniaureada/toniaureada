@@ -1,7 +1,7 @@
 -<H1> About Me</H1>
 - 👋 Hi, I’m @toniaureada from Lucena city philippines! currently working on my personal project Operation for TEA's
 - 👀 I’m interested in designing, development, security and programming 
-- 🌱 I’m currently learning Computer programming everything mainly on Phyton, C++, C#
+- 🌱 I’m currently learning Computer programming everything mainly on Python, C++, C#
 - 📫 How to reach me | ToniJaneZarate@Gmail.com
 
 <H5> Current Projects | PROJECT TEA </H5>
