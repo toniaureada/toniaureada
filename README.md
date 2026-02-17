@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Professional+Web+Developer;Full-Stack+Engineer;Clean+Code+%7C+Premium+UI;Building+Scalable+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Professional+Web+Developer;Full-Stack+Developer;Clean+Code+%7C+Premium+UI;Building+Scalable+Digital+Experiencesl+;GoHighLevel+Expert" />
 
 <br/><br/>
 
