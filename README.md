@@ -1,63 +1,115 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TJ Zarate
-=================================================================================================================================
+<!-- ===== TJ ZARATE | GITHUB PROFILE README ===== -->
 
-Student of Web and App Development
-----------------------------------
+<div align="center">
 
-* 🌍  I'm based in Philippines
-* ✉️  You can contact me at [tonijanezarate@Gmail.com](mailto:tonijanezarate@Gmail.com)
-* 🚀  I'm currently working on [ProjectTEA](http://discord.gg/XGfZF8m4)
-* 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on HTML, CSS, JavaScript, Phyton, and SQL
-* ⚡  Studying to be a good full stack developer in the future
+  <!-- Hero -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=0891B2&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+TJ+Zarate+%F0%9F%91%8B;Web+%26+App+Developer+in+progress;Building+clean+UI+%7C+Automations+%7C+Websites" alt="Typing SVG" />
 
-<a href="https://www.twitter.com/tonijanezarate" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tonijanezarate?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/toniaureada" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/toniaureada?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=toniaureada&style=for-the-badge&color=0891b2" alt="Profile Views" />
+    <a href="mailto:tonijanezarate@gmail.com"><img src="https://img.shields.io/badge/Email-tonijanezarate%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.github.com/toniaureada" target="_blank"><img src="https://img.shields.io/badge/GitHub-toniaureada-1c1917?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.twitter.com/tonijanezarate" target="_blank"><img src="https://img.shields.io/badge/Twitter-@tonijanezarate-0891b2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  </p>
 
-### Skills
+  <br/>
 
+  <!-- Quick Intro Card -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=toniaureada&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toniaureada&layout=compact&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9" height="160" />
+  </div>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🌍 Based in **Philippines**
+- ✉️ Contact: **tonijanezarate@gmail.com**
+- 🚀 Currently working on **Project TEA** (community/project): **http://discord.gg/XGfZF8m4**
+- 🧠 Learning: **React.js** (and building projects to practice)
+- 🤝 Open to collaborating on: **HTML, CSS, JavaScript, Python, SQL**
+- ⚡ Goal: become a **solid Full-Stack Developer** and ship real products
+
+---
+
+## 🧩 What I’m focusing on right now
+
+- ✅ Building responsive websites & UI components  
+- ✅ Strengthening JavaScript fundamentals  
+- ✅ React projects (state, components, hooks)  
+- ✅ Backend basics + databases (Node / SQL)
+
+---
+
+## 🛠 Tech Stack
+
+<div align="left">
+
+### Frontend
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" height="36" />
+
+### Backend / Database
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" height="36" />
+
+### Tools / Design
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" height="36" />
+
+</div>
+
+---
+
+## 🚀 Current Project: Project TEA
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="http://discord.gg/XGfZF8m4" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Project%20TEA%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/toniaureada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tonijanezarate" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/toniaureada"><img src="https://github-readme-stats.vercel.app/api?username=toniaureada&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="toniaureada's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/TJZarate"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-<H5> Current Projects | PROJECT TEA </H5>
-<p align="left"> 
-  <img src="https://i.imgur.com/58j31kr.png" width="35" title="hover text">
-  <img src=https://i.imgur.com/vuMal6s.png" width="100" alt="accessibility text">                                                                
-<H5> My Programming Languages </H5>
 <p align="left">
-  <img src="https://i.imgur.com/uckItQg.png" width="100" title="hover text">
-  <img src="https://i.imgur.com/iw2nfdj.png" width="35" alt="accessibility text">
-<!---
-toniaureada/toniaureada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img src="https://i.imgur.com/58j31kr.png" width="38" />
+  <img src="https://i.imgur.com/vuMal6s.png" width="120" />
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.github.com/toniaureada" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  </a>
+  <a href="https://www.twitter.com/tonijanezarate" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" />
+  </a>
+</p>
+
+---
+
+## 🏆 Extras
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=toniaureada&theme=onestar&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/TJZarate" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
+
+<!-- ===== END ===== -->
